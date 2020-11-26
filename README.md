@@ -7,8 +7,7 @@ Java 8
 
 ## Run
 
-type in console/terminal:
-java -jar mzLabelEditor-3.0-comparator.jar
+type in console/terminal:`java -jar mzLabelEditor-3.0-comparator.jar`
 
 ##  Theoretical spectrum
 External ressources to produce theoretical spectrum from candidate structure as formatted text file readable by mzLabelEditor
