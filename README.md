@@ -14,6 +14,5 @@ java -jar mzLabelEditor-3.0-comparator.jar
 External ressources to produce theoretical spectrum from candidate structure as formatted text file readable by mzLabelEditor
 
 * oligosaccharide: see [oligator](https://github.com/vlollier/oligator) project
-* peptide: pept2msms command line tool 
-java -jar pept2msms-1.0-SNAPSHOT.jar -h
+* peptide: pept2msms command line tool `java -jar pept2msms-1.0-SNAPSHOT.jar -h`
 
